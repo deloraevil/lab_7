@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IE7MhwyBoIs6apSzdGWRZi7x7v3Jg16cmH9Jp6gzac6TuSXy7lutgVw0MtTideOThCGqMovHiBeHfuAJhfzZkQ==",
+  "dgSpecHash": "oWWa5i7OVaCNBC1lTSpQonZab2WpcpXO3TZ8ROH90eLdM39T3f6HLazmcSR/F2ZY853Po7jOkXdIhH9JBJ+ehg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\МИША\\Desktop\\chill\\ДЗ\\4 курс\\ТРПО\\lab_3\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\Users\\МИША\\Desktop\\5\\lab_4\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\МИША\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\МИША\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
