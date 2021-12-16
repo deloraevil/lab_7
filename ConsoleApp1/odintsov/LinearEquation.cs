@@ -12,11 +12,10 @@ namespace odintsov
         {
             if (a == 0)
             {
-                throw new Exception("Error: a = 0");
+                throw new OdintsovException("Error: a = 0, Определено, что такое уравнение не существует");
             }
-            //return this.x = new List<float> { (-b) / a };
+            OdintsovLog.I().log("Определено, что это линейное уравнение");
             return this.x = new List<float>() { (-b) / a };
-
         }
     }
 }

@@ -29,10 +29,7 @@ namespace odintsov
 
         public LogInterface write()
         {
-            foreach (var item in memory)
-            {
-                writeConsole(item);
-            }
+            writeConsole(memory.ToArray());
 
             return this;
         }
